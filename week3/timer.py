@@ -8,9 +8,9 @@ def count_time(func):
 
     arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-    for iter in range(0, 10001,10):
+    for iter in range(0, 101,10):
         el_time = 0 
-        for aver in range(100):
+        for aver in range(50):
             x = arr[-1]
             i = 0 
             j = len(arr)

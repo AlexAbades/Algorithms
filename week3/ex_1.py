@@ -18,12 +18,15 @@ def binary_search(arr,i ,j ,x):
 
 
 
-
-count_time(binary_search)
+arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+i = 0 
+j = len(arr)
+x = 9
+# count_time(binary_search)
 
     
     
-
+print(binary_search(arr, i, j, x))
 
  
 
