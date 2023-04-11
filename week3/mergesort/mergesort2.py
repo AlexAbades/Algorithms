@@ -41,4 +41,4 @@ def mergeSort(arr):
 arr = [3, 5, 1, 9, 2]
 
 mergeSort(arr)
-print(arrcd )
+print(arr)
