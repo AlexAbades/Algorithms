@@ -1,6 +1,5 @@
 from collections import defaultdict, deque
 
-
 # We need to keep track of how many nodes with in-degree 0 we have at the
 # begining and every time we remove a node. 
 # If at the begining we have a graph with 2 nodes with in degree 0, 
